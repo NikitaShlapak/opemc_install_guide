@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <plots>
-  <plot basis="xz" color_by="material" id="15" type="slice">
+  <plot basis="xz" color_by="material" id="29" type="slice">
     <pixels>500 500</pixels>
     <origin>0 0 1740.0</origin>
     <width>50 50</width>
-    <color id="3" rgb="0 128 0"/>
-    <color id="4" rgb="120 120 255"/>
+    <color id="7" rgb="0 128 0"/>
+    <color id="8" rgb="120 120 255"/>
   </plot>
-  <plot basis="xz" color_by="material" id="16" type="slice">
+  <plot basis="xz" color_by="material" id="30" type="slice">
     <pixels>500 500</pixels>
     <origin>0.0 0.0 0.0</origin>
     <width>50 50</width>
-    <color id="3" rgb="0 128 0"/>
-    <color id="4" rgb="120 120 255"/>
+    <color id="7" rgb="0 128 0"/>
+    <color id="8" rgb="120 120 255"/>
   </plot>
-  <plot basis="xz" color_by="material" id="17" type="slice">
+  <plot basis="xz" color_by="material" id="31" type="slice">
     <pixels>500 500</pixels>
     <origin>0 0 -1740.0</origin>
     <width>50 50</width>
-    <color id="3" rgb="0 128 0"/>
-    <color id="4" rgb="120 120 255"/>
+    <color id="7" rgb="0 128 0"/>
+    <color id="8" rgb="120 120 255"/>
   </plot>
-  <plot basis="xy" color_by="material" id="18" type="slice">
+  <plot basis="xy" color_by="material" id="32" type="slice">
     <pixels>500 500</pixels>
     <origin>0.0 0.0 0.0</origin>
     <width>50 50</width>
-    <color id="3" rgb="0 128 0"/>
-    <color id="4" rgb="120 120 255"/>
+    <color id="7" rgb="0 128 0"/>
+    <color id="8" rgb="120 120 255"/>
   </plot>
 </plots>
